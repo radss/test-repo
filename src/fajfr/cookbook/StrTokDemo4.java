@@ -11,7 +11,7 @@ public class StrTokDemo4 {
 	//pokud pracuju pøímo uvnitø spouštìcí static main() funkce, tak musim pracovat se statickými funkcemi 
 	public static String[] process(String radek){
 		
-		String[] vysledky = new String[MAXPOLI];
+		String[] vysledkyyyyyyyyyyyyyyyyyy = new String[MAXPOLI];
 		StringTokenizer st = new StringTokenizer(radek, ODDELOVAC, true);
 		
 		int i=0;
